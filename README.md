@@ -5,6 +5,6 @@ En este repositorio encontrarás dos archivos:
 1. Uno de tipo HTML
 2. Otro de tipo CSS con todos los estilos que le dieron **🌬️magia** a la página.
 
-El objetivo de este reto fue recrear una página estática de una interfaz para móvil, la cual muestra el puntaje obtenido al finalizar una ronda de un juego de memoria.
+El objetivo de este reto fue recrear una página estática de una interfaz para móvil, la cual muestra el puntaje obtenido al finalizar la ronda de un juego de memoria.
 
-Si tienes algún comentario, no dudes en hacermelo saber.🙂
+Si tienes algún comentario, no dudes en hacérmelo saber.🙂
